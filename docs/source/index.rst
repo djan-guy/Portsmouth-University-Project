@@ -1,7 +1,7 @@
-SETaP2026 Code Documentation Template
+Portsmouth University Project
 ====================================================
 
-This is an example of documentation. It coveres themes such as:
+This is my documentation. It coveres themes such as:
 
 - Requirements
 - Design
@@ -11,7 +11,6 @@ This is an example of documentation. It coveres themes such as:
 
 
 .. note::
-
    This project is under active development.
 
 Contents
