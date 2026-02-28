@@ -1,17 +1,15 @@
 Portsmouth University Project
 ====================================================
 
-This is my documentation. It coveres themes such as:
+This is my documentation on DJango. It covers themes such as:
 
-- Requirements
-- Design
-- Implementation
-- Testing
-- Maintenance
-
+- Setup
+- Apps
+- Users
+- Venvs
 
 .. note::
-   This project is under active development.
+   This project is still under active development.
 
 Contents
 --------
@@ -19,8 +17,7 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   requirements
-   design
-   implementation
-   testing
-   maintenance
+   setup
+   apps
+   users
+   venvs
